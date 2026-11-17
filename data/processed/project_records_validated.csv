@@ -1,0 +1,41 @@
+project_id,project_name,project_owner,approval_status,last_update_date,document_reference,project_status,missing_approval,missing_owner,last_update_parsed,outdated_update,duplicate_project_id,broken_document_reference,invalid_project_id_format,issue_count,quality_status
+PRJ-001,Network Deployment Project 1,Owner 1,Approved,2027-05-01,docs/project_001.pdf,Active,False,False,2027-05-01,False,False,False,False,0,Pass
+PRJ-002,Network Deployment Project 2,Owner 2,Approved,2027-05-02,docs/project_002.pdf,Active,False,False,2027-05-02,False,False,False,False,0,Pass
+PRJ-003,Network Deployment Project 3,Owner 3,,2027-05-03,docs/project_003.pdf,Complete,True,False,2027-05-03,False,False,False,False,1,Review Required
+PRJ-004,Network Deployment Project 4,Owner 4,Approved,2027-05-04,docs/project_004.pdf,Planning,False,False,2027-05-04,False,False,False,False,0,Pass
+PRJ-005,Network Deployment Project 5,Owner 5,Approved,2027-05-05,docs/project_005.pdf,Active,False,False,2027-05-05,False,False,False,False,0,Pass
+PRJ-006,Network Deployment Project 6,Owner 6,Approved,2026-10-01,docs/project_006.pdf,Active,False,False,2026-10-01,True,False,False,False,1,Review Required
+PRJ-007,Network Deployment Project 7,Owner 7,Approved,2027-05-07,docs/project_007.pdf,Complete,False,False,2027-05-07,False,False,False,False,0,Pass
+PRJ-008,Network Deployment Project 8,Owner 8,Approved,2027-05-08,docs/project_008.pdf,Planning,False,False,2027-05-08,False,False,False,False,0,Pass
+PRJ-009,Network Deployment Project 9,Owner 1,Approved,2027-05-09,,Active,False,False,2027-05-09,False,False,True,False,1,Review Required
+PRJ-010,Network Deployment Project 10,Owner 2,Approved,2027-05-10,docs/project_010.pdf,Active,False,False,2027-05-10,False,True,False,False,1,Review Required
+PRJ-010,Network Deployment Project 11,Owner 3,Approved,2027-05-11,docs/project_011.pdf,Complete,False,False,2027-05-11,False,True,False,False,1,Review Required
+PRJ-012,Network Deployment Project 12,Owner 4,Approved,2027-05-12,docs/project_012.pdf,Planning,False,False,2027-05-12,False,False,False,False,0,Pass
+PRJ-013,Network Deployment Project 13,,Approved,2027-05-13,docs/project_013.pdf,Active,False,True,2027-05-13,False,False,False,False,1,Review Required
+PRJ-014,Network Deployment Project 14,Owner 6,Approved,2027-05-14,docs/project_014.pdf,Active,False,False,2027-05-14,False,False,False,False,0,Pass
+PRJ-015,Network Deployment Project 15,Owner 7,Approved,2027-05-15,docs/project_015.pdf,Complete,False,False,2027-05-15,False,False,False,False,0,Pass
+PRJ-016,Network Deployment Project 16,Owner 8,,2027-05-16,docs/project_016.pdf,Planning,True,False,2027-05-16,False,False,False,False,1,Review Required
+PRJ-017,Network Deployment Project 17,Owner 1,Approved,2027-05-17,docs/project_017.pdf,Active,False,False,2027-05-17,False,False,False,False,0,Pass
+PRJ-018,Network Deployment Project 18,Owner 2,Approved,2027-05-18,docs/project_018.pdf,Active,False,False,2027-05-18,False,False,False,False,0,Pass
+PRJ-019,Network Deployment Project 19,Owner 3,Approved,2027-05-19,docs/project_019.pdf,Complete,False,False,2027-05-19,False,False,False,False,0,Pass
+PRJ-020,Network Deployment Project 20,Owner 4,Approved,2027-05-20,docs/project_020.pdf,Planning,False,False,2027-05-20,False,False,False,False,0,Pass
+PRJ-021,Network Deployment Project 21,Owner 5,Approved,2027-05-01,docs/project_021.pdf,Active,False,False,2027-05-01,False,False,False,False,0,Pass
+PRJ-022,Network Deployment Project 22,Owner 6,Approved,2027-05-02,docs/project_022.pdf,Active,False,False,2027-05-02,False,False,False,False,0,Pass
+PRJ-023,Network Deployment Project 23,Owner 7,Approved,2026-11-15,docs/project_023.pdf,Complete,False,False,2026-11-15,True,False,False,False,1,Review Required
+PRJ-024,Network Deployment Project 24,Owner 8,Approved,2027-05-04,docs/project_024.pdf,Planning,False,False,2027-05-04,False,False,False,False,0,Pass
+PRJ-025,Network Deployment Project 25,Owner 1,Approved,2027-05-05,docs/project_025.pdf,Active,False,False,2027-05-05,False,False,False,False,0,Pass
+PRJ-026,Network Deployment Project 26,Owner 2,Approved,2027-05-06,docs/project_026.pdf,Active,False,False,2027-05-06,False,False,False,False,0,Pass
+PRJ-027,Network Deployment Project 27,Owner 3,Approved,2027-05-07,docs/project_027.pdf,Complete,False,False,2027-05-07,False,False,False,False,0,Pass
+PRJ-028,Network Deployment Project 28,Owner 4,Approved,2027-05-08,docs/missing_project_file.pdf,Planning,False,False,2027-05-08,False,False,True,False,1,Review Required
+PRJ-029,Network Deployment Project 29,Owner 5,Approved,2027-05-09,docs/project_029.pdf,Active,False,False,2027-05-09,False,False,False,False,0,Pass
+PRJ-030,Network Deployment Project 30,Owner 6,Approved,2027-05-10,docs/project_030.pdf,Active,False,False,2027-05-10,False,True,False,False,1,Review Required
+PRJ-030,Network Deployment Project 31,Owner 7,Approved,2027-05-11,docs/project_031.pdf,Complete,False,False,2027-05-11,False,True,False,False,1,Review Required
+PRJ-032,Network Deployment Project 32,Owner 8,Approved,2027-05-12,docs/project_032.pdf,Planning,False,False,2027-05-12,False,False,False,False,0,Pass
+PRJ-033,Network Deployment Project 33,Owner 1,Approved,2027-05-13,docs/project_033.pdf,Active,False,False,2027-05-13,False,False,False,False,0,Pass
+PRJ-034,Network Deployment Project 34,Owner 2,Approved,2027-05-14,docs/project_034.pdf,Active,False,False,2027-05-14,False,False,False,False,0,Pass
+PRJ-035,Network Deployment Project 35,Owner 3,Approved,2027-05-15,docs/project_035.pdf,Complete,False,False,2027-05-15,False,False,False,False,0,Pass
+PRJ-036,Network Deployment Project 36,,Approved,2027-05-16,docs/project_036.pdf,Planning,False,True,2027-05-16,False,False,False,False,1,Review Required
+PRJ-037,Network Deployment Project 37,Owner 5,Approved,2027-05-17,docs/project_037.pdf,Active,False,False,2027-05-17,False,False,False,False,0,Pass
+PRJ-038,Network Deployment Project 38,Owner 6,Approved,2027-05-18,docs/project_038.pdf,Active,False,False,2027-05-18,False,False,False,False,0,Pass
+PRJ-039,Network Deployment Project 39,Owner 7,Approved,2027-05-19,docs/project_039.pdf,Complete,False,False,2027-05-19,False,False,False,False,0,Pass
+PRJ-040,Network Deployment Project 40,Owner 8,Approved,2027-05-20,docs/project_040.pdf,Planning,False,False,2027-05-20,False,False,False,False,0,Pass

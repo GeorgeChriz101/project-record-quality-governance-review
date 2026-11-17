@@ -1,0 +1,13 @@
+project_id,project_name,project_owner,approval_status,last_update_date,document_reference,project_status,missing_approval,missing_owner,last_update_parsed,outdated_update,duplicate_project_id,broken_document_reference,invalid_project_id_format,issue_count,quality_status,exception_detail
+PRJ-003,Network Deployment Project 3,Owner 3,,2027-05-03,docs/project_003.pdf,Complete,True,False,2027-05-03,False,False,False,False,1,Review Required,Missing approval
+PRJ-006,Network Deployment Project 6,Owner 6,Approved,2026-10-01,docs/project_006.pdf,Active,False,False,2026-10-01,True,False,False,False,1,Review Required,Outdated update
+PRJ-009,Network Deployment Project 9,Owner 1,Approved,2027-05-09,,Active,False,False,2027-05-09,False,False,True,False,1,Review Required,Broken document reference
+PRJ-010,Network Deployment Project 10,Owner 2,Approved,2027-05-10,docs/project_010.pdf,Active,False,False,2027-05-10,False,True,False,False,1,Review Required,Duplicate project ID
+PRJ-010,Network Deployment Project 11,Owner 3,Approved,2027-05-11,docs/project_011.pdf,Complete,False,False,2027-05-11,False,True,False,False,1,Review Required,Duplicate project ID
+PRJ-013,Network Deployment Project 13,,Approved,2027-05-13,docs/project_013.pdf,Active,False,True,2027-05-13,False,False,False,False,1,Review Required,Missing project owner
+PRJ-016,Network Deployment Project 16,Owner 8,,2027-05-16,docs/project_016.pdf,Planning,True,False,2027-05-16,False,False,False,False,1,Review Required,Missing approval
+PRJ-023,Network Deployment Project 23,Owner 7,Approved,2026-11-15,docs/project_023.pdf,Complete,False,False,2026-11-15,True,False,False,False,1,Review Required,Outdated update
+PRJ-028,Network Deployment Project 28,Owner 4,Approved,2027-05-08,docs/missing_project_file.pdf,Planning,False,False,2027-05-08,False,False,True,False,1,Review Required,Broken document reference
+PRJ-030,Network Deployment Project 30,Owner 6,Approved,2027-05-10,docs/project_030.pdf,Active,False,False,2027-05-10,False,True,False,False,1,Review Required,Duplicate project ID
+PRJ-030,Network Deployment Project 31,Owner 7,Approved,2027-05-11,docs/project_031.pdf,Complete,False,False,2027-05-11,False,True,False,False,1,Review Required,Duplicate project ID
+PRJ-036,Network Deployment Project 36,,Approved,2027-05-16,docs/project_036.pdf,Planning,False,True,2027-05-16,False,False,False,False,1,Review Required,Missing project owner
